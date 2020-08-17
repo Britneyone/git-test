@@ -8,5 +8,9 @@ public class itheima {
         System.out.println("hello 1");
         System.out.println("hello 1");
         System.out.println("hello 1");
+
+    }
+    public  void test(){
+        int i=0;
     }
 }
