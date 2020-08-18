@@ -8,6 +8,7 @@ public class itheima {
         System.out.println("hello 1");
         System.out.println("hello 1");
         System.out.println("hello 1");
+        System.out.println(111);
 
     }
     public  void test(){
